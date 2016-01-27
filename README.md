@@ -1,4 +1,4 @@
-# TUi-Based-Server-Automation
+# TUI-Based-Server-Automation
 This is a TUI based Linux servers management program,which enables us to "Configure" servers just by a click. 
 The main advantage of this program is that we do not have to go in the "configuration file" of the respective servers which is the pain in server administration.
 
