@@ -9,23 +9,17 @@ The "Servers" which i have included are as follows.
 
 2).Samba-Server -- Its is Used Connect Linux And Windows.
 
-3). Secure Shell(SSH)-Server -- It is a "Remote-Login Server" which is "Highly Secured" our user id and passwords are encypted with "md5 Hash Algorithm"
+3). Secure Shell(SSH)-Server -- It is a "Remote-Login Server" which is "Highly Secured" our user id and passwords are encypted with "md5 Hash Algorithm""
 
 This program may contains some bug which makes it not run properly.(My first Linux Based Program :))
 There are some Pre-Required Softwares which are needed to run this program namely "Yum Server" which must be configured before.
 
 How To Run It.
 
-clrl+alt+F2
+`clrl+alt+F2`
 
 Browse to Program Folder
 
 Open It Then Type 
 
-./menu.sh
-
-Thank You
-
-Abhishek Pratap Singh
-
-Linux Ethusiast
+`./menu.sh`
